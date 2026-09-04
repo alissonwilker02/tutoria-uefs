@@ -57,3 +57,5 @@
 - [x] Adicionar estados de erro/alerta específicos e visíveis para cada tela académica
 - [x] Adicionar confirmação e orientação contextual próprias em cada tela académica
 - [x] Revalidar as cinco telas após os ajustes específicos
+- [ ] Exportar o projeto atual para um repositório GitHub
+- [ ] Confirmar proprietário, nome, visibilidade e URL do repositório
