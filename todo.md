@@ -36,3 +36,24 @@
 - [x] Implementar landing page pública baseada na referência visual fornecida
 - [x] Integrar hero visual, mascote, chamada principal e links de entrada da landing page
 - [x] Validar a landing page em mobile e desktop
+- [x] Reconstruir a landing page como interface própria, fiel à referência mobile fornecida
+- [x] Integrar o mascote Tuturé como asset visual nas telas públicas e internas
+- [x] Refinar layout, microcopy e detalhes de experiência para uma estética humana e delicada
+- [x] Expandir a integração do Tuturé para auth/signup, admin, aluno e estados vazios
+- [x] Rever microcopy e detalhes de UX em todas as áreas principais com tom mais humano
+- [x] Rever microcopy e detalhes de UX nas telas de turma, carómetro, homologação, avaliações e feedback
+- [x] Aplicar refinamentos visuais e validar cada uma dessas áreas por código
+- [x] Aplicar refinamentos visuais explícitos nas telas de turma, carómetro, homologação, avaliações e feedback
+- [x] Rever detalhes de UX nessas telas além da microcopy, incluindo orientação, estados e confirmações
+- [x] Validar visualmente as telas de turma, carómetro, homologação, avaliações e feedback com screenshots específicos
+- [x] Aplicar refinamentos visuais dedicados na tela de turma, carómetro, homologação, avaliações e feedback
+- [x] Reforçar UX com estados claros, orientação contextual e confirmações nessas telas
+- [x] Capturar e revisar screenshots específicos das telas académicas antes do checkpoint
+- [x] Aplicar refinamentos visuais comprováveis nas telas de homologação e avaliação com classes efetivamente usadas
+- [x] Adicionar orientação contextual, estados bloqueados/erro e confirmações explícitas nas cinco telas académicas
+- [x] Validar novamente todas as telas académicas após os refinamentos finais
+- [x] Adicionar estados de erro e alerta comprováveis nas telas de turma, carómetro, homologação, avaliação e feedback
+- [x] Adicionar confirmações explícitas e orientação contextual por tela, além do cabeçalho global
+- [x] Adicionar estados de erro/alerta específicos e visíveis para cada tela académica
+- [x] Adicionar confirmação e orientação contextual próprias em cada tela académica
+- [x] Revalidar as cinco telas após os ajustes específicos
