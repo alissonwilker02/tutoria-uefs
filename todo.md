@@ -27,9 +27,12 @@
 - [x] Implementar testes Vitest para fluxos e regras principais
 - [x] Validar compilação e responsividade em desktop e mobile
 - [x] Integrar a logo oficial fornecida no branding da aplicação
-- [ ] Implementar backend/tRPC e persistência para autenticação, tutores, critérios, turmas, sessões, avaliações e feedback
-- [ ] Adicionar proteção real por papéis e rotas, com gating por utilizador autenticado
-- [ ] Ligar OTP, recuperação de palavra-passe, cadastro e ingresso por código a fluxos funcionais com validações e erros
-- [ ] Implementar regras académicas faltantes: datas inconsistentes, ausência padrão, ingresso tardio e justificativa obrigatória
-- [ ] Adicionar estados de loading, empty e error nas telas principais
-- [ ] Expandir testes para cobrir os fluxos principais e regras de negócio
+- [x] Implementar backend/tRPC e persistência para autenticação, tutores, critérios, turmas, sessões, avaliações e feedback
+- [x] Adicionar proteção real por papéis e rotas, com gating por utilizador autenticado
+- [x] Ligar OTP, recuperação de palavra-passe, cadastro e ingresso por código a fluxos funcionais com validações e erros
+- [x] Implementar regras académicas faltantes: datas inconsistentes, ausência padrão, ingresso tardio e justificativa obrigatória
+- [x] Adicionar estados de loading, empty e error nas telas principais
+- [x] Expandir testes para cobrir os fluxos principais e regras de negócio
+- [x] Implementar landing page pública baseada na referência visual fornecida
+- [x] Integrar hero visual, mascote, chamada principal e links de entrada da landing page
+- [x] Validar a landing page em mobile e desktop
