@@ -1,0 +1,35 @@
+# Project TODO
+
+- [x] Aplicar design system UEFS e estética escandinava responsiva
+- [x] Criar shell de navegação com permissões de Administrador, Tutor e Aluno
+- [x] Implementar login com alternância Aluno/Tutor-Admin
+- [x] Implementar fluxo visual de OTP para aluno
+- [x] Implementar recuperação de palavra-passe e validações de credenciais
+- [x] Implementar criação de conta com upload obrigatório de fotografia
+- [x] Implementar painel do Administrador para gestão de tutores
+- [x] Implementar modelos de critérios por disciplina com criação e edição
+- [x] Implementar criação e configuração de turma pelo Tutor
+- [x] Implementar dashboard da turma com alunos, sessões e relatórios
+- [x] Implementar convite por código e link de ingresso na turma
+- [x] Implementar remoção de aluno com modal e preservação de histórico
+- [x] Implementar carómetro de sessão com presença e ausência padrão
+- [x] Implementar papéis exclusivos, etiquetas comportamentais e rubricas
+- [x] Implementar observações pedagógicas e estado de entrada tardia
+- [x] Implementar encerramento de problema e homologação de avaliações
+- [x] Implementar justificativa obrigatória para não acolhimento
+- [x] Implementar consolidação de notas e feedback privado
+- [x] Implementar portal do Aluno com salas ativas e ingresso por código
+- [x] Implementar autoavaliação e avaliação de pares
+- [x] Implementar estado bloqueado de formulário fora do prazo
+- [x] Implementar extrato privado de notas e feedback
+- [x] Adicionar dados de demonstração coerentes e estados vazios/carregamento
+- [x] Adicionar modais, validações, toasts e regressos claros
+- [x] Implementar testes Vitest para fluxos e regras principais
+- [x] Validar compilação e responsividade em desktop e mobile
+- [x] Integrar a logo oficial fornecida no branding da aplicação
+- [ ] Implementar backend/tRPC e persistência para autenticação, tutores, critérios, turmas, sessões, avaliações e feedback
+- [ ] Adicionar proteção real por papéis e rotas, com gating por utilizador autenticado
+- [ ] Ligar OTP, recuperação de palavra-passe, cadastro e ingresso por código a fluxos funcionais com validações e erros
+- [ ] Implementar regras académicas faltantes: datas inconsistentes, ausência padrão, ingresso tardio e justificativa obrigatória
+- [ ] Adicionar estados de loading, empty e error nas telas principais
+- [ ] Expandir testes para cobrir os fluxos principais e regras de negócio
